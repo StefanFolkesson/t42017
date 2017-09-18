@@ -1,3 +1,7 @@
 <?php
-	echo "William �lskar PHP!";
+	echo "William �lskar PHP!";
+
+	function slårInDinDörr{
+		echo "SHABAAAAAEEEEEM";
+	}
 ?>
