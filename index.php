@@ -1,3 +1,3 @@
 <?php
-	echo "William älskar PHP!";
+	echo "william luvs php!";
 ?>
