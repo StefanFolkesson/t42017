@@ -1,3 +1,13 @@
 <?php
-	echo "William älskar PHP!";
+	echo "William Ã¤lskar PHP!";
+	
+	function loopForEternity() {
+
+		for($i = 1; $i>0; $i++) {
+			
+			echo("<script> console.log('eternity')");
+
+		}
+
+	} 
 ?>
