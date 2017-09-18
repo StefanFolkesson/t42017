@@ -4,8 +4,8 @@
 	function loopForEternity() {
 
 		for($i = 1; $i>0; $i++) {
-			
-			echo("<script> console.log('eternity')");
+
+			echo("<script> console.log('Eternity')");
 
 		}
 
