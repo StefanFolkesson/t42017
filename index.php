@@ -1,5 +1,12 @@
 <?php
+	echo "William älskar PHP!";
 
+	function dödaRobin(){
+		for($i=0; $i<10; $i++){
+			echo "döda Robin... </br>";
+		}
+		echo "Robin	är död";
+	}
 
 	function öppnadindörr(){
 		for(int $i=0;$i<10;$i++){
@@ -27,5 +34,4 @@
   function slårInDinDörr{
 		echo "SHABAAAAAEEEEEM";
 	}
-
 ?>
