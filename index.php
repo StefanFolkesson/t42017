@@ -1,4 +1,5 @@
 <?php
+
 	echo "William älskar PHP!";
 
 	function öppnadindörr(){
@@ -7,4 +8,8 @@
 		}
 		echo "Dörren öppnas...";
 	}
+
+	$iphone = echo "Stefan loves iPhone!";
+	echo $iphone
+
 ?>
