@@ -1,7 +1,10 @@
 <?php
 
-	echo "william luvs php!";
 
+	function öppnadindörr(){
+		for(int $i=0;$i<10;$i++){
+			echo "Dörren öppnas...";
+		}
   function familyName($fname, $year) {
 		echo "$fname Refsnes. Born in $year <br>";
 	}
